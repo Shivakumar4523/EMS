@@ -9465,11 +9465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pradeep\\EMS\\backend\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\EMS\\backend\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
       "projectName": "EmployeeManagementSystem",
-      "projectPath": "C:\\Users\\Pradeep\\EMS\\backend\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\EMS\\backend\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pradeep\\EMS\\backend\\EmployeeManagementSystem\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\EMS\\backend\\EmployeeManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9484,6 +9484,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -9598,7 +9599,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
